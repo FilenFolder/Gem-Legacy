@@ -1,0 +1,75 @@
+Gem-Legacy License (v1.0)
+
+Copyright (c) 2026 FilenFolder Studio.
+Developed by DelaccTroix, CEO of FilenFolder Studio.
+
+Contact: filenfolderofficial@gmail.com
+Discord: filenfolder
+GitHub: https://github.com/FilenFolder/Gem-Legacy
+
+
+1. WHAT YOU MAY DO
+
+You may, free of charge:
+
+  a) use Gem-Legacy, and read, study and learn from its source code;
+
+  b) modify the source code for your own personal use, and run your modified
+     version on your own devices;
+
+  c) share unmodified copies of Gem-Legacy, as long as the name "Gem-Legacy",
+     the package name "com.filenfolder.gemlegacy", this license, and the credit
+     to FilenFolder Studio and DelaccTroix all stay intact;
+
+  d) fork the repository on GitHub and send pull requests or suggestions to the
+     original project;
+
+  e) reuse small parts of the source code in your own, different projects, as
+     long as you credit FilenFolder Studio and DelaccTroix, and the result is
+     not Gem-Legacy or a version of it.
+
+
+2. WHAT YOU MAY NOT DO WITHOUT WRITTEN PERMISSION
+
+  a) Publish or distribute a modified version of Gem-Legacy, or a rebuilt or
+     repackaged copy of it, anywhere (app stores, F-Droid, APK websites, GitHub
+     releases, social media, file sharing, etc.), under any name or any package
+     name. This includes variations such as "com.anothername.gemlegacyplus".
+
+  b) Present Gem-Legacy, or any version of it, as your own work, or remove or
+     hide the credit to FilenFolder Studio and DelaccTroix.
+
+  c) Use the name "Gem-Legacy", the app icon, or the names "FilenFolder" and
+     "FilenFolder Studio" in a way that suggests your version is official or
+     approved by us.
+
+To ask for permission, contact us using the details at the top of this file.
+
+
+3. THIRD-PARTY COMPONENTS
+
+Gem-Legacy uses Conscrypt and Material Design icons, both licensed under the
+Apache License 2.0. They stay under their own licenses.
+
+
+4. NO AFFILIATION WITH GOOGLE
+
+Gem-Legacy is not made by or affiliated with Google. "Gemini" is a trademark of
+Google LLC.
+
+
+5. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+6. RESERVED RIGHTS
+
+All rights not expressly granted in this license are reserved by FilenFolder
+Studio. If you do not follow these terms, your permission to use Gem-Legacy under
+this license ends.

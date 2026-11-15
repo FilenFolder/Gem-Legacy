@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="gemBg" format="color" />
+    <attr name="gemSurface" format="color" />
+    <attr name="gemDivider" format="color" />
+    <attr name="gemText" format="color" />
+    <attr name="gemTextSecondary" format="color" />
+    <attr name="gemHint" format="color" />
+    <attr name="gemAccent" format="color" />
+    <attr name="gemPill" format="reference" />
+    <attr name="gemInput" format="reference" />
+    <attr name="gemCard" format="reference" />
+    <attr name="gemStatus" format="reference" />
+    <attr name="gemCircleDark" format="reference" />
+    <attr name="gemCircleToggle" format="reference" />
+    <attr name="gemBubbleSystem" format="reference" />
+</resources>

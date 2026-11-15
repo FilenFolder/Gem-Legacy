@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GemLegacy.Dark" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/dark_bg</item>
+        <item name="gemBg">@color/dark_bg</item>
+        <item name="gemSurface">@color/dark_surface</item>
+        <item name="gemDivider">@color/dark_divider</item>
+        <item name="gemText">@color/dark_text</item>
+        <item name="gemTextSecondary">@color/dark_text_secondary</item>
+        <item name="gemHint">@color/dark_hint</item>
+        <item name="gemAccent">@color/dark_accent</item>
+        <item name="gemPill">@drawable/bg_pill_dark</item>
+        <item name="gemInput">@drawable/bg_input_dark</item>
+        <item name="gemCard">@drawable/bg_card_dark</item>
+        <item name="gemStatus">@drawable/bg_status_dark</item>
+        <item name="gemCircleDark">@drawable/bg_circle_neutral_dark</item>
+        <item name="gemCircleToggle">@drawable/bg_circle_toggle_dark</item>
+        <item name="gemBubbleSystem">@drawable/bubble_system_dark</item>
+        <item name="android:statusBarColor">@color/dark_bg</item>
+        <item name="android:navigationBarColor">@color/dark_bg</item>
+    </style>
+    <style name="Theme.GemLegacy.Light" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/light_bg</item>
+        <item name="gemBg">@color/light_bg</item>
+        <item name="gemSurface">@color/light_surface</item>
+        <item name="gemDivider">@color/light_divider</item>
+        <item name="gemText">@color/light_text</item>
+        <item name="gemTextSecondary">@color/light_text_secondary</item>
+        <item name="gemHint">@color/light_hint</item>
+        <item name="gemAccent">@color/light_accent</item>
+        <item name="gemPill">@drawable/bg_pill_light</item>
+        <item name="gemInput">@drawable/bg_input_light</item>
+        <item name="gemCard">@drawable/bg_card_light</item>
+        <item name="gemStatus">@drawable/bg_status_light</item>
+        <item name="gemCircleDark">@drawable/bg_circle_neutral_light</item>
+        <item name="gemCircleToggle">@drawable/bg_circle_toggle_light</item>
+        <item name="gemBubbleSystem">@drawable/bubble_system_light</item>
+        <item name="android:statusBarColor">@color/light_bg</item>
+        <item name="android:navigationBarColor">@color/light_bg</item>
+    </style>
+</resources>

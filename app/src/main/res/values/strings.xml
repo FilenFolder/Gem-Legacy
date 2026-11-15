@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Gem-Legacy</string>
+
+    <string name="hint">Message Gem-Legacy…</string>
+    <string name="send">Send</string>
+    <string name="camera">Take a photo</string>
+    <string name="gallery">Choose a photo</string>
+    <string name="call">Talk to Gemini</string>
+    <string name="clear">Delete chat</string>
+    <string name="settings">Settings</string>
+    <string name="remove_photo">Remove photo</string>
+    <string name="clear_confirm">Delete the whole chat?</string>
+    <string name="delete">Delete</string>
+    <string name="default_photo_prompt">Describe this photo.</string>
+    <string name="photo_gone">[An earlier photo is no longer available.]</string>
+    <string name="thinking">Gem-Legacy is thinking</string>
+
+    <string name="welcome">Hi! I\'m Gem-Legacy – Gemini for your older phone. Ask me anything, send a photo, or tap the green phone button to talk.</string>
+    <string name="chip_1">Tell me a fun fact</string>
+    <string name="chip_2">Explain how Wi-Fi works</string>
+    <string name="chip_3">Help me write a message</string>
+    <string name="need_key">To start chatting, add your free Gemini API key. It only takes a minute.</string>
+    <string name="open_settings">Add API key</string>
+
+    <string name="no_camera">No camera app found on this device.</string>
+    <string name="no_gallery">No gallery app found on this device.</string>
+    <string name="no_storage">Storage is not available for photos.</string>
+    <string name="photo_failed">Could not read the photo.</string>
+
+    <string name="end_call">End call</string>
+    <string name="speaker">Speaker</string>
+    <string name="call_title">Gem-Legacy</string>
+    <string name="call_connecting">Connecting…</string>
+    <string name="call_listening">Listening…</string>
+    <string name="call_thinking">Thinking…</string>
+    <string name="call_speaking">Speaking – talk to interrupt</string>
+    <string name="no_mic">Microphone permission is needed for calls.</string>
+    <string name="call_no_recognizer">Speech recognition isn\'t available on this phone. Install or enable the Google app (voice search) and try again.</string>
+    <string name="call_no_tts">No text-to-speech engine found. Install Google Text-to-speech and try again.</string>
+    <string name="call_network_error">Speech recognition can\'t reach the network.</string>
+    <string name="call_recognizer_error">Speech recognition error.</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="key_title">GEMINI API KEY</string>
+    <string name="key_help">Gem-Legacy talks to Google\'s Gemini with your own free API key. The key stays on this phone.</string>
+    <string name="key_steps">1. Tap \"Get a free key\" and sign in with a Google account.\n2. Create an API key and copy it.\n3. Paste it below, tap \"Test key\", then \"Save\".\n\nTip: if this phone\'s browser can\'t open the page, create the key on a computer or another phone and type it in here.</string>
+    <string name="get_key">Get a free key</string>
+    <string name="key_hint">Paste your key here</string>
+    <string name="show_key">Show key</string>
+    <string name="test_key">Test key</string>
+    <string name="testing">Testing…</string>
+    <string name="key_ok">Key works! You\'re ready to chat.</string>
+    <string name="key_empty">Paste a key first.</string>
+    <string name="models_title">ADVANCED: MODELS</string>
+    <string name="models_help">Gem-Legacy tries these Gemini models in order. If one is busy or retired, it moves on to the next one. Only change this if you know what you\'re doing.</string>
+    <string name="reset_models">Reset to default</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="about_title">ABOUT</string>
+    <string name="about_text">Gem-Legacy %1$s (short for Gemini Legacy) – a free Gemini chat for older Android phones (4.1 and up).\n\nMade by DelaccTroix at FilenFolder Studio.\nGitHub: github.com/FilenFolder/Gem-Legacy\nEmail: filenfolderofficial@gmail.com\nDiscord: filenfolder\n\nNot made by or affiliated with Google. Your chat is saved only on this phone and is sent only to Google\'s Gemini API. Photos are never saved.\n\nThe terms of use are in the LICENSE file on GitHub.</string>
+    <string name="edit">Edit</string>
+    <string name="photo_not_saved">Photos aren\'t saved, so add the photo again if you still need it.</string>
+    <string name="appearance_title">APPEARANCE</string>
+    <string name="dark_mode">Dark mode</string>
+</resources>
