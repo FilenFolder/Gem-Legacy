@@ -20,13 +20,14 @@ Made by **DelaccTroix** at **FilenFolder Studio**.
 
 ## Tested on
 
-| Android version | Status | Notes |
+| Android | Status | Notes |
 | --- | --- | --- |
 | 4.1.3 | Unstable | Voice chat is not working correctly |
-| 5.1.1 | Stable | Everything works as intended. Voice chat has a delay |
-| 11 | Mostly stable | Chat and photos work. The microphone permission couldn't go through, so voice calls don't work yet |
-| 14 | Mostly stable | Same as 11, The microphone permission couldn't go through, so voice calls don't work yet |
-| 16 | Stable | Everything works as intended, no change required. Tested on a Samsung SM-S711B (One UI 8.5, build BP4A.251205.006) |
+| 5.1.1 | Stable | Everything works, voice chat has a delay |
+| 7     | Stable | Everything works as intended (Tested by **Pecora_be01**)|
+| 11    | Stable | Chat and photos work, the microphone permission couldn't go through (Fixed, Patch by **BlankRes**)|
+| 14    | Stable | Same as 11, the microphone permission couldn't go through  (Fixed, Patch by **BlankRes**)|
+| 16 | Stable | Everything works as intended |
 
 *Will be updated as soon as it is tested in other devices.*
 
