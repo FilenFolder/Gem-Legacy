@@ -10,8 +10,8 @@ Made by **DelaccTroix** at **FilenFolder Studio**.
 
 - Chat with Gemini, with the conversation saved on your phone
 - Edit any message you sent: tap **Edit**, change it, and send it again
-- Photos: take one with the camera or pick one from the gallery and ask about it
-- Voice calls: talk to Gemini like a phone call, and start talking to interrupt it
+- Photos: take one with the camera or pick one from the gallery and ask about it (one picture at a time for now)
+- Voice calls: talk to Gemini like a phone call, and start talking to interrupt it (still being improved)
 - Dark mode (on by default) and Light mode
 - Everything is remembered: your API key, theme, chat, speaker choice and unsent text
 - Works on Android 4.1+: it includes modern TLS (Conscrypt), because the old built-in one can no longer connect to Google
@@ -24,6 +24,7 @@ Made by **DelaccTroix** at **FilenFolder Studio**.
 | --- | --- | --- |
 | 4.1.3 | Unstable | Voice chat is not working correctly |
 | 5.1.1 | Stable | Everything works as intended. Voice chat has a delay |
+| 14 | Mostly stable | Chat and photos work. The microphone permission couldn't go through, so voice calls don't work yet |
 | 16 | Stable | Everything works as intended, no change required. Tested on a Samsung SM-S711B (One UI 8.5, build BP4A.251205.006) |
 
 *Will be updated as soon as it is tested in other devices.*
@@ -54,7 +55,7 @@ Tap the green phone button. The phone needs:
 
 By default Gemini's voice plays through the earpiece like a normal call. Tap **Speaker** for the loudspeaker. Headphones work best with the speaker on, because the microphone can hear Gemini's own voice.
 
-Known limits: on some older recognizers the interruption only registers when you pause; Gemini can't hear you while it is thinking; voice chat is not yet reliable on Android 4.1.
+Known limits: on some older recognizers the interruption only registers when you pause; Gemini can't hear you while it is thinking; voice chat is not yet reliable on Android 4.1; on Android 14 the microphone permission request has not gone through yet.
 
 ## Privacy
 
