@@ -24,8 +24,8 @@ Made by **DelaccTroix** at **FilenFolder Studio**.
 | --- | --- | --- |
 | 4.1.3 | Unstable | Voice chat is not working correctly |
 | 5.1.1 | Stable | Everything works as intended. Voice chat has a delay |
-| 14 | Mostly stable | Chat and photos work. The microphone permission couldn't go through, so voice calls don't work yet |
-| 11 | Mostly stable | Same as 14. The microphone permission couldn't go through, so voice calls don't work yet |
+| 11 | Mostly stable | Chat and photos work. The microphone permission couldn't go through, so voice calls don't work yet |
+| 14 | Mostly stable | Same as 11, The microphone permission couldn't go through, so voice calls don't work yet |
 | 16 | Stable | Everything works as intended, no change required. Tested on a Samsung SM-S711B (One UI 8.5, build BP4A.251205.006) |
 
 *Will be updated as soon as it is tested in other devices.*
